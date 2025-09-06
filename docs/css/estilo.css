@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.cabecalho {
+    margin-top: 15px;
+    padding: 10px;
+    display: flex;
+}
+
+
+#nome {
+    font-size: 30px;
+}
+
+.photo {
+    width: 10rem;
+    border-radius: 14rem;
+}
+
+.nome-sub {
+    margin: 0rem 2rem 0rem 2;
+    width: 70%;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+}
+.menu{
+    width: 30%;
+    background-color: rgb(14, 1, 37);
+}
+.conteudo{
+    width: 70%;
+}
